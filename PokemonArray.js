@@ -16,7 +16,7 @@ console.log(RosterSize)
 }
 */
 
-for(var i=6; i>0 ; i--){
+for(var i=7; i>0 ; i--){
     
     console.log(myPokemonRoster[i])
 }
