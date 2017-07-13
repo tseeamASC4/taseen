@@ -29,8 +29,29 @@ function randSentence()
     var sentence = "";
     var sentencel = Math.floor(Math.random()* 30)
     for(var i=sentencel; i>0; i--)
-    sentence= randWord() +  + sentence + ' ' + sentence ;
-    return sentence;
+    sentence= randWord() +  + sentence + ' ' + sentence;
+    sentence+='.';
+    return sentence.charAt(0).toUpperCase() + sentence.slice(1)
 } 
 
 console.log(randSentence())
+
+
+var firstPoke= ["Mudkip", 10, 50]
+var secondPoke= ["Torchic", 13, 45 ]
+var x = firstPoke
+var y = secondPoke
+function pokeAttack(x,y) 
+{
+var x = firstPoke
+var y = secondPoke
+
+if (firstPoke ==x);
+{
+secondPoke[2] = secondPoke[2]- firstPoke[1]
+}
+return secondPoke
+}
+console.log(pokeAttack(x,y))
+
+
