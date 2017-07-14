@@ -8,7 +8,16 @@ var rosterstats = [
 
 ]
 
-for(var i=0;i<6; i++)
+for(var i=0;i<rosterstats.length; i++)
 {
     console.log(rosterstats[i])
 }
+var rosterstats;
+
+for(var i=0;i<6; i++)
+{
+    console.log(rosterstats[i]+[i] )
+}
+
+
+//UNFINISHED
