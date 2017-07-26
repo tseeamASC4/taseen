@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+
+.tbanner{
+    background-image:url("https://i.ytimg.com/vi/QgJRS-Iqmdw/maxresdefault.jpg");
+    background-position: 50% 70%;
+    display: block;
+    margin: 0 auto;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.description{
+    
+    background-color:rgba(92, 66, 88, 0.65);
+    color:black;
+    font-size: 30px;
+    font-family:  Helvetica
+}
+.vid{
+    color:white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+iframe{
+     display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+#gallery{
+    background-image:url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiRgNzFpKfVAhVLcz4KHdejCgQQjRwIBw&url=http%3A%2F%2Fkotaku.com%2Fmeet-the-hacker-whos-spent-four-years-inside-shadow-of-1685039483&psig=AFQjCNHDesee6qqgpKRr2s1BIApLoEsfYg&ust=1501170089399722");
+
+}
