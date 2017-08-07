@@ -15,15 +15,12 @@ if (gamestarted === false){
         sbutton = createButton('START');
         sbutton.position(350,450)
         sbutton.size(100,50)
+sbutton.mouseClicked(l)
     function l(){
-        {
+        
             gamestarted = true;
             console.log(gamestarted)
-        }
-      
-            
          }
-sbutton.mouseClicked(l)
     }
     
 else

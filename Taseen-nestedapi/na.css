@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-color:lavender;
+    color:orange;
+    font-family:40px
+}
+.button{
+    color:orange;
+    background-color:aqua;
+}
+img{
+    max-height: 440px;
+    max-width: 500px;
+}

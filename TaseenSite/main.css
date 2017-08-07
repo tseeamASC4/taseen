@@ -1,0 +1,47 @@
+body{
+    margin: 30px;
+font-family: verdana;
+font-size: 30px;
+background-image:url('https://s-media-cache-ak0.pinimg.com/736x/18/b7/3c/18b73cdceae1a1464336b32b8f50356c--dope-wallpapers-supreme-wallpaper-wallpapers.jpg');
+/*///background-color: #0047AB;///*/
+}
+
+#rectangleForBanner{
+    
+    width: 420px;
+    height: 110px;
+    background: pink;
+    margin: 0 auto
+}
+
+#rectangleForBanner h1{
+ color:white;
+text-transform: uppercase;
+font-size:60px;
+text-align: center;
+padding-top: 20px;
+}
+/*#aboutme{
+ position: 
+}*/
+
+.gallery{
+    text-align:center;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+
+    
+}
+.links{
+    text-align: center;
+    margin: 0 auto;
+}
+button{
+    height: 40px;
+    width: 150px;
+}
+

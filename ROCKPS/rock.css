@@ -1,0 +1,10 @@
+body{
+    text-align:center;
+    background:teal;
+    color: orange;
+}
+
+input{
+    height:30;
+    width:40;
+}

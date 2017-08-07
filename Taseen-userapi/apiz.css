@@ -1,0 +1,26 @@
+.title{
+    text-align:center;
+    font-size: 40px;
+    color: blue;
+    font-family:Cambria;
+    background-color:paleturquoise;
+}
+
+h1{
+    text-align:center;
+}
+      
+img{
+    height:300px;
+    width: 300px;
+
+
+}
+body{
+    text-align: center;
+    color: paleturquoise;
+    background-image:url('https://www.sanwebe.com/assets/public/images/background-patterns/bg63.gif');
+}
+.button{
+    color:black;
+}

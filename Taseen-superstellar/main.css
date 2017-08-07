@@ -1,0 +1,11 @@
+body{
+    background-image:url('http://www.runescape.com/img/global/page/background_simple3.jpg');
+    background-repeat: no-repeat;
+}
+.logo{
+   padding:100px;
+    height: 700px;
+   width:auto; 
+text-align: center;
+color:white;
+}
